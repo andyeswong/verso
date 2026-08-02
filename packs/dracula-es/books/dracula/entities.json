@@ -1,0 +1,158 @@
+[
+  {
+    "id": "harker",
+    "kind": "character",
+    "name": "Jonathan Harker",
+    "aka": ["Harker"],
+    "summary": "Pasante de procurador, recién titulado, enviado a cerrar una compra de finca.",
+    "body": "Viaja al este por trabajo y lleva un diario en taquigrafía, un detalle que importa: escribe rápido y para sí mismo, así que anota lo que le extraña antes de decidir qué pensar de ello. Esa costumbre profesional —dejar constancia— es el mecanismo con el que está construida la novela entera.",
+    "canon_asset": "e-harker",
+    "reveal": "ch01",
+    "appearances": [
+      { "unit": "ch01", "role": "introduced", "note": "Viaja de Múnich a Bistritz anotando comidas y horarios de tren." },
+      { "unit": "ch02", "role": "pov", "note": "Llega al castillo y cena solo mientras el Conde lo observa." },
+      { "unit": "ch03", "role": "pov", "note": "Comprueba que no hay una sola puerta abierta." },
+      { "unit": "ch04", "role": "pov", "note": "Baja por el muro exterior porque ya no le queda otra salida." }
+    ],
+    "relations": [{ "to": "dracula", "kind": "guest_of", "label": "huésped del", "reveal": "ch02" }]
+  },
+  {
+    "id": "dracula",
+    "kind": "character",
+    "name": "El Conde Drácula",
+    "aka": ["el Conde", "Drácula"],
+    "summary": "Noble de los Cárpatos. Compra una finca en Londres y no tiene servidumbre.",
+    "body": "Se presenta como anfitrión perfecto: cortés, culto, interesadísimo en el inglés y en las leyes de propiedad de Inglaterra. Las anomalías se acumulan despacio y siempre en detalles domésticos —quién sirve la mesa, quién conduce el coche, qué no hay en las paredes—, no en escenas de terror. Es la técnica del libro: lo imposible entra por la puerta de servicio.",
+    "canon_asset": "e-dracula",
+    "reveal": "ch02",
+    "appearances": [
+      { "unit": "ch02", "role": "introduced", "note": "Recibe a Harker de noche, con la mano fría, y no come." },
+      { "unit": "ch03", "role": "appears", "note": "Habla de la historia de su tierra como si la recordara." },
+      { "unit": "ch04", "role": "appears", "note": "Harker lo ve bajar por el muro de cabeza." },
+      { "unit": "ch07", "role": "mentioned", "note": "Cincuenta cajas de tierra descargadas en Whitby." }
+    ],
+    "relations": [{ "to": "carfax", "kind": "owns", "label": "compra", "reveal": "ch02" }]
+  },
+  {
+    "id": "transilvania",
+    "kind": "place",
+    "name": "Transilvania",
+    "summary": "Frontera entre tres provincias, en el borde oriental de los mapas útiles.",
+    "body": "Harker anota que no encontró el castillo en ningún mapa del Museo Británico. Ese hueco cartográfico es deliberado: el libro sitúa su amenaza justo donde la burocracia victoriana deja de tener registros. Los campesinos le dan un crucifijo y hacen señas contra el mal de ojo; él lo apunta como folclore pintoresco.",
+    "canon_asset": "ch01-borgo",
+    "reveal": "ch01",
+    "appearances": [{ "unit": "ch01", "role": "introduced", "note": "Bistritz, la víspera de San Jorge." }]
+  },
+  {
+    "id": "castillo",
+    "kind": "place",
+    "name": "El castillo",
+    "summary": "En el filo de un precipicio, sin luz salvo la que se lleva encima.",
+    "body": "No hay espejos en ninguna habitación. Hay una biblioteca inmensa en inglés —periódicos, guías, horarios de ferrocarril, listas de la nobleza— y ninguna servidumbre. La geografía del edificio es el argumento: puertas cerradas, una sola ala accesible, y la única salida es hacia abajo por fuera.",
+    "canon_asset": "e-castillo",
+    "reveal": "ch02",
+    "appearances": [
+      { "unit": "ch02", "role": "introduced", "note": "Llega en un coche que conduce alguien con una fuerza rara." },
+      { "unit": "ch03", "role": "appears", "note": "Cada puerta que prueba está cerrada con llave." }
+    ]
+  },
+  {
+    "id": "carfax",
+    "kind": "place",
+    "name": "Carfax",
+    "summary": "Finca antigua en Purfleet, junto a un manicomio. Lo que Harker vino a vender.",
+    "body": "La compra es real y está bien hecha: capilla, terreno, muros altos, sin vecinos. El Conde no elige Londres por Londres, elige un inmueble concreto por sus características —aislamiento, tierra consagrada, acceso al río—. La transacción legal es el vehículo de la invasión.",
+    "reveal": "ch02",
+    "appearances": [{ "unit": "ch02", "role": "introduced", "note": "El Conde pregunta por los detalles del terreno." }]
+  },
+  {
+    "id": "mina",
+    "kind": "character",
+    "name": "Mina Murray",
+    "aka": ["Mina"],
+    "summary": "Maestra auxiliar. Aprende taquigrafía y mecanografía para ser útil a Jonathan.",
+    "body": "Es la que ordena. Copia, transcribe, fecha y archiva; cuando el material disperso se vuelva un caso, será porque ella lo montó. Su competencia es tecnológica —taquigrafía, máquina de escribir, después el fonógrafo— y el libro la trata como el instrumento que permite pensar.",
+    "canon_asset": "e-mina",
+    "reveal": "ch05",
+    "appearances": [
+      { "unit": "ch05", "role": "introduced", "note": "Escribe a Lucy que practica taquigrafía sin descanso." },
+      { "unit": "ch06", "role": "pov", "note": "Lleva el diario de Whitby y habla con los viejos del cementerio." },
+      { "unit": "ch08", "role": "pov", "note": "Sale a buscar a Lucy descalza, de madrugada." }
+    ],
+    "relations": [{ "to": "harker", "kind": "engaged_to", "label": "prometida de", "reveal": "ch05" }]
+  },
+  {
+    "id": "lucy",
+    "kind": "character",
+    "name": "Lucy Westenra",
+    "aka": ["Lucy"],
+    "summary": "Amiga de Mina. Tres pretendientes en un mismo día, y sonámbula desde niña.",
+    "canon_asset": "e-lucy",
+    "reveal": "ch05",
+    "appearances": [
+      { "unit": "ch05", "role": "introduced", "note": "Cuenta las tres propuestas de matrimonio." },
+      { "unit": "ch08", "role": "appears", "note": "Aparece en el acantilado, dormida." },
+      { "unit": "ch10", "role": "appears", "note": "Sin fuerzas, sin explicación médica." }
+    ]
+  },
+  {
+    "id": "seward",
+    "kind": "character",
+    "name": "Dr. John Seward",
+    "aka": ["Seward"],
+    "summary": "Director del manicomio de Purfleet. Lleva su diario en fonógrafo.",
+    "body": "Uno de los tres pretendientes de Lucy. Registra en cilindros de cera: es el único que habla su diario en voz alta, lo que después complica encontrar nada dentro. La novela se toma en serio sus tecnologías y también sus límites.",
+    "canon_asset": "e-seward",
+    "reveal": "ch06",
+    "appearances": [
+      { "unit": "ch06", "role": "introduced", "note": "Anota el caso de un paciente que clasifica por sí mismo." },
+      { "unit": "ch09", "role": "appears", "note": "Reconoce que el caso lo supera y llama a su maestro." }
+    ]
+  },
+  {
+    "id": "renfield",
+    "kind": "character",
+    "name": "R. M. Renfield",
+    "summary": "Paciente de Seward. Come vida: moscas para arañas, arañas para pájaros.",
+    "body": "Seward lo llama zoófago y le lleva la cuenta como quien lleva un experimento. Renfield escala su cadena con método y paciencia, y sus buenos y malos días siguen un calendario que no es el del manicomio.",
+    "canon_asset": "e-renfield",
+    "reveal": "ch06",
+    "appearances": [
+      { "unit": "ch06", "role": "introduced", "note": "Guarda un cuaderno con cifras que suma cada tanto." }
+    ]
+  },
+  {
+    "id": "whitby",
+    "kind": "place",
+    "name": "Whitby",
+    "summary": "Puerto de Yorkshire. Una abadía en ruinas arriba, 199 escalones abajo.",
+    "body": "Mina lo describe como el sitio más bonito y más pequeño del mundo. El cementerio del acantilado tiene bancos con vista al mar y lápidas de gente que no está debajo —marinos ahogados, nombres puestos por costumbre—. El libro monta ahí su desembarco.",
+    "canon_asset": "e-whitby",
+    "reveal": "ch06",
+    "appearances": [{ "unit": "ch06", "role": "introduced", "note": "Mina llega y conoce a los viejos del cementerio." }]
+  },
+  {
+    "id": "demeter",
+    "kind": "item",
+    "name": "La Demeter",
+    "summary": "Goleta rusa de Varna. Llega a Whitby con toda la tripulación desaparecida.",
+    "body": "Encalla durante una tormenta con el timonel atado al timón y muerto. El diario de a bordo se conserva y se publica en el periódico: el libro incrusta el testimonio del capitán como documento, no como escena. En la bodega, cincuenta cajones de tierra.",
+    "canon_asset": "e-demeter",
+    "reveal": "ch07",
+    "appearances": [{ "unit": "ch07", "role": "introduced", "note": "Un perro enorme salta a tierra y desaparece." }]
+  },
+  {
+    "id": "vanhelsing",
+    "kind": "character",
+    "name": "Abraham Van Helsing",
+    "summary": "Maestro de Seward. Médico, abogado, filósofo. Llega sin preguntar por qué.",
+    "body": "Su método es lo interesante: examina, calla, y se niega a nombrar el diagnóstico hasta poder demostrarlo. Le pide a Seward que piense por su cuenta. Esa negativa a decir lo que sospecha sostiene la tensión de toda esta parte del libro.",
+    "canon_asset": "e-vanhelsing",
+    "reveal": "ch09",
+    "appearances": [
+      { "unit": "ch09", "role": "introduced", "note": "Responde al telegrama el mismo día." },
+      { "unit": "ch12", "role": "appears", "note": "Se niega a explicar lo que ya tiene claro." }
+    ],
+    "relations": [{ "to": "seward", "kind": "mentor_of", "label": "maestro de", "reveal": "ch09" }]
+  }
+]

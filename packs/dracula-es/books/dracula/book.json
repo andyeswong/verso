@@ -1,0 +1,17 @@
+{
+  "id": "dracula",
+  "title": "Drácula",
+  "number": 1,
+  "cover": "ch02-castillo",
+  "series": {
+    "id": "stoker",
+    "title": "Bram Stoker",
+    "author": "Bram Stoker",
+    "sort": 1
+  },
+  "parts": [
+    { "id": "p1", "title": "Los Cárpatos", "number": 1, "sort": 1 },
+    { "id": "p2", "title": "Whitby", "number": 2, "sort": 2 },
+    { "id": "p3", "title": "El diagnóstico", "number": 3, "sort": 3 }
+  ]
+}

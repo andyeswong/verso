@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Verso",
+    "slug": "verso",
+    "version": "0.1.0",
+    "orientation": "default",
+    "icon": "./assets/images/icon.png",
+    "scheme": "verso",
+    "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.andreswong.verso",
+      "adaptiveIcon": {
+        "backgroundColor": "#0C0F14",
+        "foregroundImage": "./assets/images/android-icon-foreground.png",
+        "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "ios": {
+      "bundleIdentifier": "com.andreswong.verso",
+      "supportsTablet": true
+    },
+    "plugins": [
+      "expo-router",
+      "expo-sqlite",
+      "expo-secure-store",
+      "expo-video",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#0C0F14",
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 76
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": false
+    },
+    "owner": "andyesdev",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "1bc30ccb-0604-43cc-8157-09f97a2c73f7"
+      }
+    }
+  }
+}

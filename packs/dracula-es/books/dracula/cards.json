@@ -1,0 +1,144 @@
+[
+  {
+    "unit": "ch01",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch01-borgo", "title": "El paso de Borgo al anochecer" },
+      {
+        "kind": "note",
+        "body": "El libro empieza como un cuaderno de gastos. Horarios de tren, el nombre de un guiso, la receta del pimentón. Esa precisión no es relleno: establece a Harker como testigo fiable justo antes de que lo que anote deje de ser creíble.\n\nLa geografía hace el trabajo pesado. Cuanto más al este, menos mapas: Harker busca el castillo en el Museo Británico y no lo encuentra en ninguna carta. El sitio existe fuera del registro, que es exactamente donde la administración victoriana no puede seguirlo."
+      },
+      {
+        "kind": "note",
+        "title": "La víspera",
+        "body": "Los campesinos reaccionan a la fecha, no al destino. Es la noche de San Jorge, y le dan un crucifijo a un protestante inglés que lo acepta por no ofender. Harker apunta las señas contra el mal de ojo como curiosidad etnográfica. El lector las lee de otra manera, y esa distancia entre lo que el narrador anota y lo que significa es el motor del primer tercio."
+      },
+      { "kind": "entity_ref", "ref": "harker" },
+      { "kind": "entity_ref", "ref": "transilvania" }
+    ]
+  },
+  {
+    "unit": "ch02",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch02-castillo", "title": "El castillo sobre el precipicio" },
+      {
+        "kind": "note",
+        "body": "La bienvenida es impecable y todo lo raro es doméstico. Nadie sirve la mesa. El anfitrión no come. No hay un solo espejo en el edificio. La biblioteca está llena de material inglés utilitario —horarios, guías, listas de nobleza, periódicos—, o sea que alguien lleva años estudiando cómo moverse por Londres sin llamar la atención.\n\nY el asunto que trajo a Harker es una operación inmobiliaria legítima, bien documentada, con sus escrituras. La invasión entra por el derecho de propiedad."
+      },
+      {
+        "kind": "quote",
+        "body": "Escuche a los hijos de la noche. Qué música hacen.",
+        "title": "El Conde, sobre los lobos"
+      },
+      { "kind": "entity_ref", "ref": "dracula" },
+      { "kind": "entity_ref", "ref": "castillo" },
+      { "kind": "entity_ref", "ref": "carfax" }
+    ]
+  },
+  {
+    "unit": "ch03",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch03-noche", "title": "Las ventanas sin salida" },
+      {
+        "kind": "note",
+        "body": "Harker deja de ser huésped y pasa a ser inventario. Prueba cada puerta y las encuentra cerradas; el descubrimiento es administrativo, no dramático, y por eso funciona.\n\nEl Conde, mientras tanto, habla de las guerras de su tierra en primera persona del plural y con una precisión que no cuadra con haberlas leído. El libro suelta ahí su primera pista grande y la disfraza de orgullo nacional."
+      }
+    ]
+  },
+  {
+    "unit": "ch04",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch04-encierro", "title": "El muro del ala sur" },
+      {
+        "kind": "note",
+        "body": "La huida es de albañilería: piedra sillar, juntas grandes, mortero comido por el tiempo. Harker baja por fuera porque el interior es una trampa cerrada con llave, y lo apunta con el mismo tono con que apuntaba los trenes.\n\nAbajo encuentra la logística —cajones, tierra, gitanos contratados, un envío con destino—. El terror del capítulo no es un monstruo: es un embarque bien organizado."
+      }
+    ]
+  },
+  {
+    "unit": "ch05",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch05-carta", "title": "La correspondencia" },
+      {
+        "kind": "note",
+        "body": "Corte seco: los Cárpatos desaparecen y entran dos mujeres escribiéndose cartas sobre trabajo y pretendientes. El contraste es la estructura del libro —dos líneas que aún no se tocan y que el lector ya sabe que van a chocar.\n\nMina practica taquigrafía y mecanografía para serle útil a Jonathan. Es la primera aparición de lo que la salvará a todos: la capacidad de convertir papeles sueltos en un expediente."
+      },
+      { "kind": "entity_ref", "ref": "mina" },
+      { "kind": "entity_ref", "ref": "lucy" }
+    ]
+  },
+  {
+    "unit": "ch06",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch06-whitby", "title": "La abadía y los escalones" },
+      {
+        "kind": "note",
+        "body": "Whitby se describe con detalle de guía turística —la abadía, los 199 escalones, el banco del acantilado, el cementerio con vista— y ese inventario después se usa entero. Nada de lo que Mina anota como paisaje es decorativo.\n\nEl viejo del cementerio le explica que la mitad de las lápidas mienten: nombres de marinos que nunca volvieron y no están debajo. Tumbas vacías, en el sitio exacto donde va a desembarcar el libro."
+      },
+      { "kind": "entity_ref", "ref": "whitby" },
+      { "kind": "entity_ref", "ref": "seward" },
+      { "kind": "entity_ref", "ref": "renfield" }
+    ]
+  },
+  {
+    "unit": "ch07",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch07-demeter", "title": "El Demeter contra el muelle" },
+      {
+        "kind": "note",
+        "body": "El capítulo entero es un recorte de periódico pegado en el diario. Stoker no narra el naufragio: reproduce la crónica local y después el diario de a bordo del capitán, con sus fechas y su deterioro.\n\nEl efecto es que la escena más sobrenatural del libro llega en el formato más verificable que existía en 1897. Y lo que queda en la bodega es carga declarada: cincuenta cajones de tierra, con su consignatario y su albarán."
+      },
+      { "kind": "entity_ref", "ref": "demeter" }
+    ]
+  },
+  {
+    "unit": "ch08",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch08-sonambula", "title": "El asiento del acantilado" },
+      {
+        "kind": "note",
+        "body": "El sonambulismo de Lucy estaba plantado desde el capítulo V como rasgo de infancia, y aquí se cobra. Mina la busca de madrugada y la ve desde abajo en el banco del cementerio, con algo inclinado encima.\n\nLo que Mina anota después es lo que puede jurar: dos puntos en el cuello y un alfiler con el que ella misma le cerró el chal. Se atribuye la culpa. El libro deja al lector con una certeza que la narradora no comparte."
+      }
+    ]
+  },
+  {
+    "unit": "ch09",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch09-consulta", "title": "El manicomio de Purfleet" },
+      {
+        "kind": "note",
+        "body": "Seward hace lo correcto: reconoce que el caso lo excede y llama a alguien mejor. Van Helsing llega desde Ámsterdam sin pedir explicaciones, por deuda personal.\n\nLo notable es la ética profesional que el libro pone en escena. Un médico que admite su límite, un maestro que examina antes de opinar. La novela va a necesitar mucha credibilidad prestada para lo que viene, y la construye aquí."
+      },
+      { "kind": "entity_ref", "ref": "vanhelsing" }
+    ]
+  },
+  {
+    "unit": "ch10",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch10-transfusion", "title": "La habitación de Hillingham" },
+      {
+        "kind": "note",
+        "body": "La transfusión es medicina de vanguardia para 1897 —los grupos sanguíneos aún no se conocían— y Stoker la usa con toda su carga: se pasa vida de un cuerpo a otro por un tubo, delante del lector, y el procedimiento aceptable espeja al que no lo es.\n\nVan Helsing no explica nada. Mide, ordena, y calla."
+      }
+    ]
+  },
+  {
+    "unit": "ch11",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch11-lobo", "title": "El cercado de los lobos" },
+      {
+        "kind": "note",
+        "body": "Otra vez el recorte de prensa, y otra vez cómico antes que siniestro: el cuidador del zoológico se explaya sobre su lobo con el orgullo de quien nunca sale en el periódico.\n\nEl truco es que la entrevista es un informe forense sin saberlo. Los barrotes están doblados hacia fuera y el animal volvió solo, con cortes de vidrio. El testigo entrega la prueba y no la entiende; el lector sí."
+      }
+    ]
+  },
+  {
+    "unit": "ch12",
+    "cards": [
+      { "kind": "scene", "slot": "hero", "asset": "ch12-diagnostico", "title": "Lo que no se nombra" },
+      {
+        "kind": "note",
+        "body": "Van Helsing ya lo sabe y se niega a decirlo. Su argumento no es de suspense barato: sabe que si lo nombra antes de poder probarlo, Seward deja de creerle y pierde al único aliado con acceso.\n\nEs una tesis sobre la evidencia, que es de lo que va el libro entero. Todo llega en documentos —diarios, cartas, cilindros, recortes— y ninguno basta por separado. El caso sólo existe cuando alguien los junta."
+      }
+    ]
+  }
+]

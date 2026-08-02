@@ -1,0 +1,234 @@
+[
+  {
+    "id": "ch01-borgo",
+    "kind": "image",
+    "file": "ch01-borgo.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#0B1419",
+    "reveal": "ch01",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "El paso de Borgo al anochecer"
+  },
+  {
+    "id": "ch02-castillo",
+    "kind": "image",
+    "file": "ch02-castillo.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#04060B",
+    "reveal": "ch02",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "El castillo sobre el precipicio"
+  },
+  {
+    "id": "ch03-noche",
+    "kind": "image",
+    "file": "ch03-noche.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#0A0C11",
+    "reveal": "ch03",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "Las ventanas sin salida"
+  },
+  {
+    "id": "ch04-encierro",
+    "kind": "image",
+    "file": "ch04-encierro.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#0D0C0B",
+    "reveal": "ch04",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "El muro del ala sur"
+  },
+  {
+    "id": "ch05-carta",
+    "kind": "image",
+    "file": "ch05-carta.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#1D1B17",
+    "reveal": "ch05",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "La correspondencia"
+  },
+  {
+    "id": "ch06-whitby",
+    "kind": "image",
+    "file": "ch06-whitby.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#0B1212",
+    "reveal": "ch06",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "La abadía y los escalones"
+  },
+  {
+    "id": "ch07-demeter",
+    "kind": "image",
+    "file": "ch07-demeter.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#080A0E",
+    "reveal": "ch07",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "El Demeter contra el muelle"
+  },
+  {
+    "id": "ch08-sonambula",
+    "kind": "image",
+    "file": "ch08-sonambula.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#0E0D14",
+    "reveal": "ch08",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "El asiento del acantilado"
+  },
+  {
+    "id": "ch09-consulta",
+    "kind": "image",
+    "file": "ch09-consulta.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#121110",
+    "reveal": "ch09",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "El manicomio de Purfleet"
+  },
+  {
+    "id": "ch10-transfusion",
+    "kind": "image",
+    "file": "ch10-transfusion.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#110607",
+    "reveal": "ch10",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "La habitación de Hillingham"
+  },
+  {
+    "id": "ch11-lobo",
+    "kind": "image",
+    "file": "ch11-lobo.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#0E100F",
+    "reveal": "ch11",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "El cercado de los lobos"
+  },
+  {
+    "id": "ch12-diagnostico",
+    "kind": "image",
+    "file": "ch12-diagnostico.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#131318",
+    "reveal": "ch12",
+    "credit": "Marcador generado · sustituir por arte definitivo",
+    "caption": "Lo que no se nombra"
+  },
+  {
+    "id": "e-harker",
+    "kind": "image",
+    "file": "e-harker.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#1C1A15",
+    "reveal": "ch01",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-dracula",
+    "kind": "image",
+    "file": "e-dracula.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#100C0D",
+    "reveal": "ch02",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-mina",
+    "kind": "image",
+    "file": "e-mina.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#15171A",
+    "reveal": "ch05",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-lucy",
+    "kind": "image",
+    "file": "e-lucy.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#221F25",
+    "reveal": "ch05",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-seward",
+    "kind": "image",
+    "file": "e-seward.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#181919",
+    "reveal": "ch06",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-renfield",
+    "kind": "image",
+    "file": "e-renfield.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#1E1B16",
+    "reveal": "ch06",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-vanhelsing",
+    "kind": "image",
+    "file": "e-vanhelsing.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#08090C",
+    "reveal": "ch09",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-castillo",
+    "kind": "image",
+    "file": "e-castillo.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#090A0E",
+    "reveal": "ch02",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-whitby",
+    "kind": "image",
+    "file": "e-whitby.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#080E0F",
+    "reveal": "ch06",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  },
+  {
+    "id": "e-demeter",
+    "kind": "image",
+    "file": "e-demeter.webp",
+    "width": 1024,
+    "height": 1280,
+    "tint": "#07080A",
+    "reveal": "ch07",
+    "credit": "Marcador generado · sustituir por arte definitivo"
+  }
+]
