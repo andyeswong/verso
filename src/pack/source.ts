@@ -124,8 +124,12 @@ export function folderSource(root: Directory): PackSource {
       const src = media.get(name);
       if (!src || isDir(src)) throw new Error(`falta media/${name}`);
       if (dest.exists) dest.delete();
-      // copy() atraviesa content:// → file:// sin pasar el binario por JS.
-      (src as File).copy(dest);
+      // NO usar src.copy(dest): sobre SAF revienta con "This method cannot be used
+      // with content URIs". Hay que leer los bytes y escribirlos, aunque pase el
+      // binario por JS.
+      const bytes = await (src as File).bytes();
+      dest.create();
+      dest.write(bytes);
     },
   };
 }

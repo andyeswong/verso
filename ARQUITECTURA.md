@@ -422,7 +422,15 @@ línea de tiempo.
 `reveal` es un **id de unidad**, no un número: el importador lo traduce a `reveal_key`.
 Así reordenar capítulos no rompe el gate.
 
-Un `reveal` omitido = `0` = siempre visible.
+Un `reveal` omitido = `0` = siempre visible. Sirve para lo que es mundo cotidiano y no
+revela nada: la fauna común, las plantas, el dinero.
+
+**El `reveal` de una entidad es su primera aparición, mención incluida.** Si el texto la
+nombra en el capítulo 1, el lector ya la conoce ahí, aunque no la vea hasta el 6.
+Ponerlo más tarde crea una aparición que el gate no puede mostrar nunca —— y eso lo
+detecta la prueba, no el ojo: al armar el pack de *El camino de los reyes* cinco
+entidades tenían el `reveal` después de su primera mención y sólo se vio al correr
+`npm run gate`.
 
 ### 4.5 `cards.json`
 
