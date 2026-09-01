@@ -62,6 +62,7 @@
     "name": "Carfax",
     "summary": "Finca antigua en Purfleet, junto a un manicomio. Lo que Harker vino a vender.",
     "body": "La compra es real y está bien hecha: capilla, terreno, muros altos, sin vecinos. El Conde no elige Londres por Londres, elige un inmueble concreto por sus características —aislamiento, tierra consagrada, acceso al río—. La transacción legal es el vehículo de la invasión.",
+    "canon_asset": "e-carfax",
     "reveal": "ch02",
     "appearances": [{ "unit": "ch02", "role": "introduced", "note": "El Conde pregunta por los detalles del terreno." }]
   },

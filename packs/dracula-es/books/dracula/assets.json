@@ -5,9 +5,9 @@
     "file": "ch01-borgo.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#0B1419",
+    "tint": "#030302",
     "reveal": "ch01",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "El paso de Borgo al anochecer"
   },
   {
@@ -16,9 +16,9 @@
     "file": "ch02-castillo.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#04060B",
+    "tint": "#010101",
     "reveal": "ch02",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "El castillo sobre el precipicio"
   },
   {
@@ -27,9 +27,9 @@
     "file": "ch03-noche.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#0A0C11",
+    "tint": "#010100",
     "reveal": "ch03",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "Las ventanas sin salida"
   },
   {
@@ -38,9 +38,9 @@
     "file": "ch04-encierro.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#0D0C0B",
+    "tint": "#080804",
     "reveal": "ch04",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "El muro del ala sur"
   },
   {
@@ -49,9 +49,9 @@
     "file": "ch05-carta.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#1D1B17",
+    "tint": "#060504",
     "reveal": "ch05",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "La correspondencia"
   },
   {
@@ -60,9 +60,9 @@
     "file": "ch06-whitby.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#0B1212",
+    "tint": "#0B0C0A",
     "reveal": "ch06",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "La abadía y los escalones"
   },
   {
@@ -71,9 +71,9 @@
     "file": "ch07-demeter.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#080A0E",
+    "tint": "#080907",
     "reveal": "ch07",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "El Demeter contra el muelle"
   },
   {
@@ -82,9 +82,9 @@
     "file": "ch08-sonambula.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#0E0D14",
+    "tint": "#020201",
     "reveal": "ch08",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "El asiento del acantilado"
   },
   {
@@ -93,9 +93,9 @@
     "file": "ch09-consulta.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#121110",
+    "tint": "#040504",
     "reveal": "ch09",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "El manicomio de Purfleet"
   },
   {
@@ -104,9 +104,9 @@
     "file": "ch10-transfusion.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#110607",
+    "tint": "#020201",
     "reveal": "ch10",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "La habitación de Hillingham"
   },
   {
@@ -115,9 +115,9 @@
     "file": "ch11-lobo.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#0E100F",
+    "tint": "#010100",
     "reveal": "ch11",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "El cercado de los lobos"
   },
   {
@@ -126,9 +126,9 @@
     "file": "ch12-diagnostico.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#131318",
+    "tint": "#000000",
     "reveal": "ch12",
-    "credit": "Marcador generado · sustituir por arte definitivo",
+    "credit": "Ilustración original para Verso · grabado generado · CC0",
     "caption": "Lo que no se nombra"
   },
   {
@@ -137,9 +137,9 @@
     "file": "e-harker.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#1C1A15",
+    "tint": "#020201",
     "reveal": "ch01",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-dracula",
@@ -147,9 +147,9 @@
     "file": "e-dracula.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#100C0D",
+    "tint": "#020200",
     "reveal": "ch02",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-mina",
@@ -157,9 +157,9 @@
     "file": "e-mina.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#15171A",
+    "tint": "#010101",
     "reveal": "ch05",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-lucy",
@@ -167,9 +167,9 @@
     "file": "e-lucy.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#221F25",
+    "tint": "#000000",
     "reveal": "ch05",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-seward",
@@ -177,9 +177,9 @@
     "file": "e-seward.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#181919",
+    "tint": "#000000",
     "reveal": "ch06",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-renfield",
@@ -187,9 +187,9 @@
     "file": "e-renfield.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#1E1B16",
+    "tint": "#0E0D09",
     "reveal": "ch06",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-vanhelsing",
@@ -197,9 +197,9 @@
     "file": "e-vanhelsing.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#08090C",
+    "tint": "#0D0B06",
     "reveal": "ch09",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-castillo",
@@ -207,9 +207,9 @@
     "file": "e-castillo.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#090A0E",
+    "tint": "#171612",
     "reveal": "ch02",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-whitby",
@@ -217,9 +217,9 @@
     "file": "e-whitby.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#080E0F",
+    "tint": "#1D1914",
     "reveal": "ch06",
-    "credit": "Marcador generado · sustituir por arte definitivo"
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
   },
   {
     "id": "e-demeter",
@@ -227,8 +227,9 @@
     "file": "e-demeter.webp",
     "width": 1024,
     "height": 1280,
-    "tint": "#07080A",
+    "tint": "#010101",
     "reveal": "ch07",
-    "credit": "Marcador generado · sustituir por arte definitivo"
-  }
+    "credit": "Ilustración original para Verso · grabado generado · CC0"
+  },
+  {"id": "e-carfax", "kind": "image", "file": "e-carfax.webp", "width": 1024, "height": 1280, "tint": "#0C0D0A", "reveal": "ch09", "credit": "Ilustración original para Verso · grabado generado · CC0", "caption": "Carfax, cerrada"}
 ]
